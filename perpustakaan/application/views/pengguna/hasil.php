@@ -1,0 +1,1 @@
+<embed src="../../upload/cover/<?php echo $_POST['id']; ?>" type="application/pdf" width="100%" height="700px">
